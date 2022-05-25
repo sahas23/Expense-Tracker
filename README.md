@@ -1,3 +1,20 @@
+# Expense Tracker Application
+
+It helps u to store , track your expenses daily, monthly, yearly . It has chart bar for every month to show u in which month/year ur expenses are more/less.
+
+# Technologies used:
+  HTML,
+  CSS,
+  JAVASCRIPT, 
+  
+# Framework used:
+
+React
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
